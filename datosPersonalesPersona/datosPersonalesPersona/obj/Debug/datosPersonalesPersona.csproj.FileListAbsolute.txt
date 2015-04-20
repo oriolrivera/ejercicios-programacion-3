@@ -1,0 +1,5 @@
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\datosPersonalesPersona\datosPersonalesPersona\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\datosPersonalesPersona\datosPersonalesPersona\bin\Debug\datosPersonalesPersona.exe
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\datosPersonalesPersona\datosPersonalesPersona\bin\Debug\datosPersonalesPersona.pdb
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\datosPersonalesPersona\datosPersonalesPersona\obj\Debug\datosPersonalesPersona.exe
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\datosPersonalesPersona\datosPersonalesPersona\obj\Debug\datosPersonalesPersona.pdb

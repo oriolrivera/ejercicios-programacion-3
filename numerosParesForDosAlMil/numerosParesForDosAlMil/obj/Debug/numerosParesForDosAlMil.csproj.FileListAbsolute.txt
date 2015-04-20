@@ -1,0 +1,5 @@
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\numerosParesForDosAlMil\numerosParesForDosAlMil\bin\Debug\numerosParesForDosAlMil.exe
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\numerosParesForDosAlMil\numerosParesForDosAlMil\bin\Debug\numerosParesForDosAlMil.pdb
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\numerosParesForDosAlMil\numerosParesForDosAlMil\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\numerosParesForDosAlMil\numerosParesForDosAlMil\obj\Debug\numerosParesForDosAlMil.exe
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\numerosParesForDosAlMil\numerosParesForDosAlMil\obj\Debug\numerosParesForDosAlMil.pdb

@@ -1,0 +1,5 @@
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\nota10EstudiantesArreglos\nota10EstudiantesArreglos\bin\Debug\nota10EstudiantesArreglos.exe
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\nota10EstudiantesArreglos\nota10EstudiantesArreglos\bin\Debug\nota10EstudiantesArreglos.pdb
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\nota10EstudiantesArreglos\nota10EstudiantesArreglos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\nota10EstudiantesArreglos\nota10EstudiantesArreglos\obj\Debug\nota10EstudiantesArreglos.exe
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\nota10EstudiantesArreglos\nota10EstudiantesArreglos\obj\Debug\nota10EstudiantesArreglos.pdb

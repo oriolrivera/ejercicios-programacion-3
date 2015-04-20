@@ -1,0 +1,5 @@
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\unoalmilwhile\unoalmilwhile\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\unoalmilwhile\unoalmilwhile\bin\Debug\unoalmilwhile.exe
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\unoalmilwhile\unoalmilwhile\bin\Debug\unoalmilwhile.pdb
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\unoalmilwhile\unoalmilwhile\obj\Debug\unoalmilwhile.exe
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\unoalmilwhile\unoalmilwhile\obj\Debug\unoalmilwhile.pdb

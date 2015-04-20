@@ -1,0 +1,7 @@
+Nombre = jose Apellido = perez Matricula = 2010-0011
+Nota ecuenttro 1 = 11
+Nota ecuenttro 2 = 12
+Nota ecuenttro 3 = 13
+Nota ecuenttro 4 = 14
+Nota ecuenttro 5 = 15
+Resultado Nota Final = 65

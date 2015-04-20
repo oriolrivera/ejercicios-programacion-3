@@ -1,0 +1,10 @@
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\ejercicio1NotaEstudiante\ejercicio1NotaEstudiante\bin\Debug\ejercicio1NotaEstudiante.exe
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\ejercicio1NotaEstudiante\ejercicio1NotaEstudiante\bin\Debug\ejercicio1NotaEstudiante.pdb
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\ejercicio1NotaEstudiante\ejercicio1NotaEstudiante\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\ejercicio1NotaEstudiante\ejercicio1NotaEstudiante\obj\Debug\ejercicio1NotaEstudiante.Form1.resources
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\ejercicio1NotaEstudiante\ejercicio1NotaEstudiante\obj\Debug\ejercicio1NotaEstudiante.Properties.Resources.resources
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\ejercicio1NotaEstudiante\ejercicio1NotaEstudiante\obj\Debug\ejercicio1NotaEstudiante.csproj.GenerateResource.Cache
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\ejercicio1NotaEstudiante\ejercicio1NotaEstudiante\obj\Debug\ejercicio1NotaEstudiante.exe
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\ejercicio1NotaEstudiante\ejercicio1NotaEstudiante\obj\Debug\ejercicio1NotaEstudiante.pdb
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\ejercicio2NotaEstudiante\ejercicio1NotaEstudiante\obj\Debug\ejercicio1NotaEstudiante.exe
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\ejercicio2NotaEstudiante\ejercicio1NotaEstudiante\obj\Debug\ejercicio1NotaEstudiante.pdb

@@ -1,0 +1,8 @@
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\estudianteAgregarMateria\estudianteAgregarMateria\bin\Debug\estudianteAgregarMateria.exe
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\estudianteAgregarMateria\estudianteAgregarMateria\bin\Debug\estudianteAgregarMateria.pdb
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\estudianteAgregarMateria\estudianteAgregarMateria\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\estudianteAgregarMateria\estudianteAgregarMateria\obj\Debug\estudianteAgregarMateria.Form1.resources
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\estudianteAgregarMateria\estudianteAgregarMateria\obj\Debug\estudianteAgregarMateria.Properties.Resources.resources
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\estudianteAgregarMateria\estudianteAgregarMateria\obj\Debug\estudianteAgregarMateria.csproj.GenerateResource.Cache
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\estudianteAgregarMateria\estudianteAgregarMateria\obj\Debug\estudianteAgregarMateria.exe
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\estudianteAgregarMateria\estudianteAgregarMateria\obj\Debug\estudianteAgregarMateria.pdb

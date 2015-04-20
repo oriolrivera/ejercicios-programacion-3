@@ -1,0 +1,8 @@
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\clasePersona\clasePersona\bin\Debug\clasePersona.exe
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\clasePersona\clasePersona\bin\Debug\clasePersona.pdb
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\clasePersona\clasePersona\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\clasePersona\clasePersona\obj\Debug\clasePersona.Form1.resources
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\clasePersona\clasePersona\obj\Debug\clasePersona.Properties.Resources.resources
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\clasePersona\clasePersona\obj\Debug\clasePersona.csproj.GenerateResource.Cache
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\clasePersona\clasePersona\obj\Debug\clasePersona.exe
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\clasePersona\clasePersona\obj\Debug\clasePersona.pdb

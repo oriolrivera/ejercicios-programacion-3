@@ -1,0 +1,5 @@
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\anioBosiesto\anioBosiesto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\anioBosiesto\anioBosiesto\bin\Debug\anioBosiesto.exe
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\anioBosiesto\anioBosiesto\bin\Debug\anioBosiesto.pdb
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\anioBosiesto\anioBosiesto\obj\Debug\anioBosiesto.exe
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\anioBosiesto\anioBosiesto\obj\Debug\anioBosiesto.pdb

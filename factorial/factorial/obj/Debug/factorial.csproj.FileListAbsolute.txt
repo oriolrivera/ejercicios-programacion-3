@@ -1,0 +1,5 @@
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\factorial\factorial\bin\Debug\factorial.exe
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\factorial\factorial\bin\Debug\factorial.pdb
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\factorial\factorial\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\factorial\factorial\obj\Debug\factorial.exe
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\factorial\factorial\obj\Debug\factorial.pdb

@@ -1,0 +1,5 @@
+C:\Users\Raynier Sanchez\Documents\Visual Studio 2008\Projects\determinarNumeroPrimo\determinarNumeroPrimo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Raynier Sanchez\Documents\Visual Studio 2008\Projects\determinarNumeroPrimo\determinarNumeroPrimo\bin\Debug\determinarNumeroPrimo.exe
+C:\Users\Raynier Sanchez\Documents\Visual Studio 2008\Projects\determinarNumeroPrimo\determinarNumeroPrimo\bin\Debug\determinarNumeroPrimo.pdb
+C:\Users\Raynier Sanchez\Documents\Visual Studio 2008\Projects\determinarNumeroPrimo\determinarNumeroPrimo\obj\Debug\determinarNumeroPrimo.exe
+C:\Users\Raynier Sanchez\Documents\Visual Studio 2008\Projects\determinarNumeroPrimo\determinarNumeroPrimo\obj\Debug\determinarNumeroPrimo.pdb

@@ -1,0 +1,8 @@
+Nombre = jos Apellido = ape Matricula = 2010
+Nota ecuenttro 1 = 10
+Nota ecuenttro 2 = 11
+Nota ecuenttro 3 = 13
+Nota ecuenttro 4 = 12
+Nota ecuenttro 5 = 14
+Resultado Nota Final = 60
+F

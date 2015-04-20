@@ -1,0 +1,8 @@
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\rectangulotwo\rectangulotwo\bin\Debug\rectangulotwo.exe
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\rectangulotwo\rectangulotwo\bin\Debug\rectangulotwo.pdb
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\rectangulotwo\rectangulotwo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\rectangulotwo\rectangulotwo\obj\Debug\rectangulotwo.Properties.Resources.resources
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\rectangulotwo\rectangulotwo\obj\Debug\rectangulotwo.csproj.GenerateResource.Cache
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\rectangulotwo\rectangulotwo\obj\Debug\rectangulotwo.exe
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\rectangulotwo\rectangulotwo\obj\Debug\rectangulotwo.pdb
+C:\Users\sheol\Documents\Visual Studio 2008\Projects\rectangulotwo\rectangulotwo\obj\Debug\rectangulotwo.Form1.resources
