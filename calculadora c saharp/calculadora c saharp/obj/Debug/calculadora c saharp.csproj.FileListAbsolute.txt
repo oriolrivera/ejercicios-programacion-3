@@ -1,0 +1,8 @@
+C:\Users\nhy6jm7\Documents\Visual Studio 2008\Projects\calculadora c saharp\calculadora c saharp\bin\Debug\calculadora c saharp.exe
+C:\Users\nhy6jm7\Documents\Visual Studio 2008\Projects\calculadora c saharp\calculadora c saharp\bin\Debug\calculadora c saharp.pdb
+C:\Users\nhy6jm7\Documents\Visual Studio 2008\Projects\calculadora c saharp\calculadora c saharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nhy6jm7\Documents\Visual Studio 2008\Projects\calculadora c saharp\calculadora c saharp\obj\Debug\calculadora_c_saharp.Form1.resources
+C:\Users\nhy6jm7\Documents\Visual Studio 2008\Projects\calculadora c saharp\calculadora c saharp\obj\Debug\calculadora_c_saharp.Properties.Resources.resources
+C:\Users\nhy6jm7\Documents\Visual Studio 2008\Projects\calculadora c saharp\calculadora c saharp\obj\Debug\calculadora c saharp.csproj.GenerateResource.Cache
+C:\Users\nhy6jm7\Documents\Visual Studio 2008\Projects\calculadora c saharp\calculadora c saharp\obj\Debug\calculadora c saharp.exe
+C:\Users\nhy6jm7\Documents\Visual Studio 2008\Projects\calculadora c saharp\calculadora c saharp\obj\Debug\calculadora c saharp.pdb
